@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Oct 21 18:21:29 2025
+
+@author: hp
+"""
+
+streamlit
+pandas
+numpy
+plotly
